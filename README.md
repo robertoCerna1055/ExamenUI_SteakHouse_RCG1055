@@ -1,8 +1,11 @@
 # ExamenUI_SteakHouse_RCG1055
 ## Examen del negocio (listas, tuplas y diccionarios)
 - Codigo
-- ![image](https://github.com/user-attachments/assets/f6b05dae-1080-4850-bc21-90f417e71087)
-- ![image](https://github.com/user-attachments/assets/781560d0-39e8-4e1b-8bc0-d126a80e6636)
+- ![image](https://github.com/user-attachments/assets/b60047d8-239b-4189-ac40-943f5dafa791)
+- ![image](https://github.com/user-attachments/assets/d8a116b2-c4f8-4ca4-9572-04fe7fa6dec0)
+- ![image](https://github.com/user-attachments/assets/d5d33a21-cf51-4a4c-b095-dd40df8789c9)
+
+
 
 - Resultado
 - ![image](https://github.com/user-attachments/assets/dae25ce4-9803-4da3-ae6a-944ca1c50ac9)
